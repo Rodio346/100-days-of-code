@@ -28,3 +28,15 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+____________________________________
+
+### Day 1: June 24, 2019
+**Today's Progress**: Started with python.
+**Thoughts**: its simple and sleek but I miss the brackets just solved few Introduction level questions on Hacker rank  
+
+### Day 2: June 25, 2019
+**Today's Progress**: Continued  with python. and how the internet works ++django
+**Thoughts**: Mesmerized
+
+### Day 3: June 26, 2019
+**Today's Progress: 
